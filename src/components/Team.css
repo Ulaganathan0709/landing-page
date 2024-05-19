@@ -1,0 +1,11 @@
+.team-member {
+    margin-bottom: 20px;
+  }
+  
+  .team-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 15px;
+  }
+  

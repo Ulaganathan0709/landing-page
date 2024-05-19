@@ -1,0 +1,24 @@
+.header-banner {
+    background-color: #808386; /* Fallback color if the image fails to load */
+    padding: 0;
+    position: relative;
+    color: white;
+    min-height: 300px; /* Reduced height for a more professional look */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .header-image img {
+    width: 100px; /* Adjust the size to fit better */
+    height: auto;
+    margin: 0 auto 10px; /* Center the logo and add some space below */
+  }
+  
+
+  
+  .header-content h1,
+  .header-content p {
+    margin: 0;
+  }
+  
