@@ -4,7 +4,11 @@ This project is a landing page for Guvi Courses, built using React, Vite, and Bo
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://your-netlify-live-site-link.netlify.app).
+You can view the live demo of the project [here](https://guvilandingpage.netlify.app/).
+
+### Note 
+
+I have able to view logo image and banner images on localhost ![alt text](image.png) platform is blocked images
 
 ## Project Overview
 
@@ -37,5 +41,6 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/guvi-courses-landing-page.git
-   cd guvi-courses-landing-page
+   git clone https://github.com/Ulaganathan0709/landing-page
+   cd guvi-courses-landing-page'
+
